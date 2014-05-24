@@ -56,3 +56,7 @@ Options:
                         Remove remote file/directory.
 ```
 
+Author
+------
+
+Manuel Mancera (sinkmanu@gmail.com/[@manukaos](https://twitter.com/manukaos))
